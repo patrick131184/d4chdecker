@@ -4,12 +4,12 @@ subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: portfolio3.jpg
-thumbnail: dreams-thumbnail.png
+img: portfolio1.jpg
+thumbnail: portfolio1.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: April 2026
+client: Klient A
+category: Dach
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
